@@ -17,7 +17,7 @@ I'm a driven and passionate individual with a strong foundation in **machine lea
 
 ### Hertzsoft Technologies Private Limited | Mumbai, India
 #### Data Science Intern 
-
+##### Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) 
 *   Designed a modular zero-shot classification system to extract subject composition percentages from 1200+ digital documents..
 *   Utilized 19 predefined labels for clientele segmentation & advanced subject composition analysis to gain insights.
 *   Leveraged PyMuPDF and NLTK for text extraction, data cleaning, and preparation to build and train the classification model.
@@ -25,7 +25,7 @@ I'm a driven and passionate individual with a strong foundation in **machine lea
 
 ### Crescent Academy  | Mumbai, India
 #### Lecturer Trainee to a Lecturer  
-
+##### Leadership, Problem-solving, Communication Skills 
 *   Mentored 50+ students in Surveying 1, Surveying 2 and GATE Geomatics subjects fostering a collaborative learning space.
 *   Achieved a 100% semester pass rate for 50+ students; all students under my mentorship passed the GATE exam.
 

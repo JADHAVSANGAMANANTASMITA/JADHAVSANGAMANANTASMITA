@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a driven and passionate individual with a strong foundation in **machine learning, artificial intelligence, and data analysis**. Currently pursuing my Master's in Management Sciences at **IIT Kanpur**, I am deeply fascinated by the power of data to transform industries and solve complex problems. My journey so far has equipped me with a blend of theoretical knowledge and practical experience, gained through challenging projects, impactful internships, and competitive hackathons. I'm eager to leverage my skills in predictive modeling, data analytics, and AI development to contribute to innovative solutions and make a meaningful impact.
+I'm a driven and passionate individual with a strong foundation in **machine learning, artificial intelligence, and data analysis**. Currently pursuing my Master's in Management Sciences at **IIT Kanpur**, I am deeply fascinated by the power of data to transform industries and solve complex problems. My journey so far has equipped me with a blend of theoretical knowledge and practical experience, gained through challenging projects, impactful internship. I'm eager to leverage my skills in predictive modeling, data analytics, and AI development to contribute to innovative solutions and make a meaningful impact.
 
 ---
 
